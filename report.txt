@@ -1,0 +1,22 @@
+Deadlock Prevention & Recovery Report
+
+Allocation Matrix:
+[0]
+[1]
+[1]
+
+Maximum Matrix:
+[2]
+[2]
+[2]
+
+Need Matrix:
+[2]
+[1]
+[1]
+
+Available Resources:
+[1]
+
+System is SAFE.
+Safe Sequence: [1, 2, 0]
